@@ -1,0 +1,16 @@
+Autodesk.Viewing.theExtensionManager.registerExternalExtension('Autodesk.Viewing.Wireframes',   'extensions/Wireframes/Wireframes.js');
+Autodesk.Viewing.theExtensionManager.registerExternalExtension('Autodesk.RaaS',                 'extensions/RaaS/RaaS.js');
+Autodesk.Viewing.theExtensionManager.registerExternalExtension('Autodesk.Viewing.MarkupsCore',  'extensions/Markups/Markups.js');
+Autodesk.Viewing.theExtensionManager.registerExternalExtension('Autodesk.Viewing.MarkupsGui',   'extensions/Markups/MarkupsGui.js');
+Autodesk.Viewing.theExtensionManager.registerExternalExtension('Autodesk.Billboard',            'extensions/Billboard/Billboard.js');
+Autodesk.Viewing.theExtensionManager.registerExternalExtension('Autodesk.BillboardGui',         'extensions/Billboard/Billboard.js');
+Autodesk.Viewing.theExtensionManager.registerExternalExtension('Autodesk.Viewing.Comments',     'extensions/Comments/Comments.js');
+Autodesk.Viewing.theExtensionManager.registerExternalExtension('Autodesk.InViewerSearch',       'extensions/InViewerSearch/InViewerSearch.js');
+Autodesk.Viewing.theExtensionManager.registerExternalExtension('Autodesk.Viewing.WebVR',        'extensions/WebVR/WebVR.js');
+Autodesk.Viewing.theExtensionManager.registerExternalExtension('Autodesk.Viewing.MemoryManager','extensions/MemoryManager/MemoryManager.js');
+Autodesk.Viewing.theExtensionManager.registerExternalExtension('Autodesk.Viewing.MemoryManager','extensions/MemoryManager/MemoryManager.js');
+Autodesk.Viewing.theExtensionManager.registerExternalExtension('Autodesk.Beeline',              'extensions/Beeline/Beeline.js');
+Autodesk.Viewing.theExtensionManager.registerExternalExtension('Autodesk.FirstPerson',          'extensions/FirstPerson/FirstPerson.js');
+Autodesk.Viewing.theExtensionManager.registerExternalExtension('Autodesk.BimWalk',              'extensions/BimWalk/BimWalk.js');
+Autodesk.Viewing.theExtensionManager.registerExternalExtension('Autodesk.Debug',                'extensions/Debug/Debug.js');
+//
